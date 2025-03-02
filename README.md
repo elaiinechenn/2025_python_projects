@@ -7,7 +7,8 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 
 <img width="1039" alt="image" src="https://github.com/user-attachments/assets/e824c08f-a8f8-409c-9c9f-e60de4573e60" />
 <img width="1041" alt="image" src="https://github.com/user-attachments/assets/41b87508-8607-4f96-bb5a-055ea0ed867f" />
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/386ca1fa-e4ae-4a1a-b96e-96aec37999e4" />
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/eeb2bc9e-5e7e-410f-8e38-c44e90c141bf" />
+
 <img width="1039" alt="image" src="https://github.com/user-attachments/assets/a499426a-a5c7-4f65-b039-dcaabe9e36ce" />
 
 ​```make_graph(gme_data, gme_revenue, 'GameStop')
