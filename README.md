@@ -1,5 +1,5 @@
-<h1>2025 python projects</h1>
-Extracting and Visualizing Stock Data
+<h1>Extracting and Visualizing Stock Data</h1>
+
 
 ​```
 make_graph(tesla_data, tesla_revenue, 'Tesla')
