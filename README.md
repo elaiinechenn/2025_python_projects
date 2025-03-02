@@ -1,4 +1,4 @@
-<img width="1041" alt="image" src="https://github.com/user-attachments/assets/393902ab-1213-4d0c-a1d3-cad74122ab51" /><h1>2025 python projects</h1>
+<h1>2025 python projects</h1>
 Extracting and Visualizing Stock Data
 make_graph(tesla_data, tesla_revenue, 'Tesla')
 
