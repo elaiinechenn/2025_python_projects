@@ -1,5 +1,6 @@
 <h1>2025 python projects</h1>
 Extracting and Visualizing Stock Data
+
 ​```
 make_graph(tesla_data, tesla_revenue, 'Tesla')
 ​```
@@ -11,6 +12,7 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 
 ​```make_graph(gme_data, gme_revenue, 'GameStop')
 ​```
+
 <img width="1012" alt="image" src="https://github.com/user-attachments/assets/f050a413-a298-42d1-97de-9c36d3fdc94c" />
 <img width="1011" alt="image" src="https://github.com/user-attachments/assets/a074c476-d40f-42d1-a857-84e620c66e1d" />
 <img width="995" alt="image" src="https://github.com/user-attachments/assets/b75dc6af-1f62-465c-984e-03fe01b3bb1f" />
